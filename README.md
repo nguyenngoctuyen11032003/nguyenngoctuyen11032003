@@ -19,73 +19,41 @@ My work covers HRM, CRM, and ERP systems, e-learning, VR360 digitalization, corp
 
 ---
 
-### Core Technologies
+### Tech Stack
 
-**Languages**
+**Core stack** — the technologies I use most in day-to-day full-stack work:
 
-![JavaScript](https://img.shields.io/badge/JavaScript-24292F?style=flat&logo=javascript&logoColor=F7DF1E)
-![TypeScript](https://img.shields.io/badge/TypeScript-24292F?style=flat&logo=typescript&logoColor=3178C6)
-![Dart](https://img.shields.io/badge/Dart-24292F?style=flat&logo=dart&logoColor=0175C2)
-![Java](https://img.shields.io/badge/Java-24292F?style=flat&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-24292F?style=flat&logo=python&logoColor=3776AB)
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=ts,js,nestjs,nodejs,nextjs,react,flutter,postgres,redis,docker,git,github&perline=6" alt="TypeScript, JavaScript, NestJS, Node.js, Next.js, React, Flutter, PostgreSQL, Redis, Docker, Git, GitHub" />
+</p>
 
-**Frontend**
+**By category**
 
-![React](https://img.shields.io/badge/React-24292F?style=flat&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-24292F?style=flat&logo=nextdotjs&logoColor=white)
-
-**Backend**
-
-![Node.js](https://img.shields.io/badge/Node.js-24292F?style=flat&logo=nodedotjs&logoColor=5FA04E)
-![NestJS](https://img.shields.io/badge/NestJS-24292F?style=flat&logo=nestjs&logoColor=E0234E)
-
-**Mobile**
-
-![Flutter](https://img.shields.io/badge/Flutter-24292F?style=flat&logo=flutter&logoColor=02569B)
-![Android](https://img.shields.io/badge/Android-24292F?style=flat&logo=android&logoColor=3DDC84)
-
-**Database & Cache**
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-24292F?style=flat&logo=postgresql&logoColor=4169E1)
-![MySQL](https://img.shields.io/badge/MySQL-24292F?style=flat&logo=mysql&logoColor=4479A1)
-![Redis](https://img.shields.io/badge/Redis-24292F?style=flat&logo=redis&logoColor=FF4438)
-![Firebase](https://img.shields.io/badge/Firebase-24292F?style=flat&logo=firebase&logoColor=FFCA28)
-
-**DevOps / Infrastructure**
-
-![Docker](https://img.shields.io/badge/Docker-24292F?style=flat&logo=docker&logoColor=2496ED)
-![Linux](https://img.shields.io/badge/Linux-24292F?style=flat&logo=linux&logoColor=FCC624)
-![Nginx](https://img.shields.io/badge/Nginx-24292F?style=flat&logo=nginx&logoColor=009639)
-![CI/CD](https://img.shields.io/badge/CI%2FCD-24292F?style=flat)
-
-**Cloud**
-
-![Oracle Cloud Infrastructure](https://img.shields.io/badge/Oracle_Cloud_Infrastructure-24292F?style=flat)
-![AWS](https://img.shields.io/badge/AWS-24292F?style=flat)
-
-**API & Authentication**
-
-![REST API](https://img.shields.io/badge/REST_API-24292F?style=flat)
-![JWT](https://img.shields.io/badge/JWT-24292F?style=flat&logo=jsonwebtokens&logoColor=white)
-
-**Version Control / Collaboration**
-
-![Git](https://img.shields.io/badge/Git-24292F?style=flat&logo=git&logoColor=F05032)
-![GitHub](https://img.shields.io/badge/GitHub-24292F?style=flat&logo=github&logoColor=white)
+| Category | Technologies |
+| --- | --- |
+| **Languages** | <img src="https://skillicons.dev/icons?i=ts,js,dart,html,css" alt="TypeScript, JavaScript, Dart, HTML5, CSS3" height="40" /> <img src="https://img.shields.io/badge/SQL-1F2328?style=for-the-badge" alt="SQL" height="28" /> |
+| **Frontend** | <img src="https://skillicons.dev/icons?i=react,nextjs" alt="React, Next.js" height="40" /> |
+| **Backend** | <img src="https://skillicons.dev/icons?i=nodejs,nestjs" alt="Node.js, NestJS" height="40" /> |
+| **Mobile** | <img src="https://skillicons.dev/icons?i=flutter,dart" alt="Flutter, Dart" height="40" /> |
+| **Database & Cache** | <img src="https://skillicons.dev/icons?i=postgres,redis" alt="PostgreSQL, Redis" height="40" /> |
+| **DevOps & Infrastructure** | <img src="https://skillicons.dev/icons?i=docker,linux,nginx" alt="Docker, Linux, Nginx" height="40" /> <img src="https://img.shields.io/badge/CI%2FCD-1F2328?style=for-the-badge" alt="CI/CD" height="28" /> |
+| **Cloud** | <img src="https://skillicons.dev/icons?i=aws,firebase" alt="AWS, Firebase" height="40" /> <img src="https://img.shields.io/badge/Oracle_Cloud_%28OCI%29-1F2328?style=for-the-badge" alt="Oracle Cloud (OCI)" height="28" /> |
+| **API & Security** | <img src="https://img.shields.io/badge/REST_API-1F2328?style=for-the-badge" alt="REST API" height="28" /> <img src="https://img.shields.io/badge/JWT-1F2328?style=for-the-badge" alt="JWT" height="28" /> <img src="https://img.shields.io/badge/Authentication-1F2328?style=for-the-badge" alt="Authentication" height="28" /> <img src="https://img.shields.io/badge/Authorization-1F2328?style=for-the-badge" alt="Authorization" height="28" /> |
+| **Version Control** | <img src="https://skillicons.dev/icons?i=git,github" alt="Git, GitHub" height="40" /> |
 
 ---
 
-### Technical Skills
+### What I Do With This Stack
 
-| Area | What I do |
+| Layer | Work |
 | --- | --- |
-| Frontend | Responsive web interfaces with React and Next.js; integrating frontend features with backend APIs |
-| Backend | REST APIs and business logic with Node.js and NestJS; working with Java and Python |
-| Database | Implementing data access and database features with PostgreSQL and MySQL; caching with Redis |
-| Authentication | JWT-based authentication and role-based authorization |
-| Mobile | Cross-platform application development with Flutter and Dart; Android development |
+| Frontend | Responsive web interfaces with React and Next.js, connected to backend APIs |
+| Backend | REST APIs and business logic with Node.js and NestJS |
+| Database | Data access and database features with PostgreSQL and SQL; caching with Redis |
+| Security | JWT-based authentication and authorization |
+| Mobile | Cross-platform applications with Flutter and Dart |
 | Deployment | Docker-based environments, Linux servers, Nginx, and CI/CD workflows |
-| Cloud & services | Working with Oracle Cloud Infrastructure, AWS, and Firebase |
+| Cloud | Working with AWS, Oracle Cloud Infrastructure, and Firebase |
 
 ---
 
