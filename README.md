@@ -38,7 +38,7 @@ My work covers HRM, CRM, and ERP systems, e-learning, VR360 digitalization, corp
 | **Database & Cache** | <img src="https://skillicons.dev/icons?i=postgres,redis" alt="PostgreSQL, Redis" height="40" /> |
 | **DevOps & Infrastructure** | <img src="https://skillicons.dev/icons?i=docker,linux,nginx" alt="Docker, Linux, Nginx" height="40" /> <img src="https://img.shields.io/badge/CI%2FCD-1F2328?style=for-the-badge" alt="CI/CD" height="28" /> |
 | **Cloud** | <img src="https://skillicons.dev/icons?i=aws,firebase" alt="AWS, Firebase" height="40" /> <img src="https://img.shields.io/badge/Oracle_Cloud_%28OCI%29-1F2328?style=for-the-badge" alt="Oracle Cloud (OCI)" height="28" /> |
-| **API & Security** | <img src="https://img.shields.io/badge/REST_API-1F2328?style=for-the-badge" alt="REST API" height="28" /> <img src="https://img.shields.io/badge/JWT-1F2328?style=for-the-badge" alt="JWT" height="28" /> <img src="https://img.shields.io/badge/Authentication-1F2328?style=for-the-badge" alt="Authentication" height="28" /> <img src="https://img.shields.io/badge/Authorization-1F2328?style=for-the-badge" alt="Authorization" height="28" /> |
+| **API & Security** | <img src="https://img.shields.io/badge/REST_API-1F2328?style=for-the-badge" alt="REST API" height="28" /> <img src="https://img.shields.io/badge/JWT-1F2328?style=for-the-badge" alt="JWT" height="28" /><br><img src="https://img.shields.io/badge/Authentication-1F2328?style=for-the-badge" alt="Authentication" height="28" /> <img src="https://img.shields.io/badge/Authorization-1F2328?style=for-the-badge" alt="Authorization" height="28" /> |
 | **Version Control** | <img src="https://skillicons.dev/icons?i=git,github" alt="Git, GitHub" height="40" /> |
 
 ---
