@@ -26,6 +26,8 @@ My work covers HRM, CRM, and ERP systems, e-learning, VR360 digitalization, corp
 ![JavaScript](https://img.shields.io/badge/JavaScript-24292F?style=flat&logo=javascript&logoColor=F7DF1E)
 ![TypeScript](https://img.shields.io/badge/TypeScript-24292F?style=flat&logo=typescript&logoColor=3178C6)
 ![Dart](https://img.shields.io/badge/Dart-24292F?style=flat&logo=dart&logoColor=0175C2)
+![Java](https://img.shields.io/badge/Java-24292F?style=flat&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-24292F?style=flat&logo=python&logoColor=3776AB)
 
 **Frontend**
 
@@ -40,10 +42,12 @@ My work covers HRM, CRM, and ERP systems, e-learning, VR360 digitalization, corp
 **Mobile**
 
 ![Flutter](https://img.shields.io/badge/Flutter-24292F?style=flat&logo=flutter&logoColor=02569B)
+![Android](https://img.shields.io/badge/Android-24292F?style=flat&logo=android&logoColor=3DDC84)
 
 **Database & Cache**
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-24292F?style=flat&logo=postgresql&logoColor=4169E1)
+![MySQL](https://img.shields.io/badge/MySQL-24292F?style=flat&logo=mysql&logoColor=4479A1)
 ![Redis](https://img.shields.io/badge/Redis-24292F?style=flat&logo=redis&logoColor=FF4438)
 ![Firebase](https://img.shields.io/badge/Firebase-24292F?style=flat&logo=firebase&logoColor=FFCA28)
 
@@ -76,10 +80,10 @@ My work covers HRM, CRM, and ERP systems, e-learning, VR360 digitalization, corp
 | Area | What I do |
 | --- | --- |
 | Frontend | Responsive web interfaces with React and Next.js; integrating frontend features with backend APIs |
-| Backend | REST APIs and business logic with Node.js and NestJS |
-| Database | Implementing data access and database features with PostgreSQL; caching with Redis |
+| Backend | REST APIs and business logic with Node.js and NestJS; working with Java and Python |
+| Database | Implementing data access and database features with PostgreSQL and MySQL; caching with Redis |
 | Authentication | JWT-based authentication and role-based authorization |
-| Mobile | Cross-platform application development with Flutter and Dart |
+| Mobile | Cross-platform application development with Flutter and Dart; Android development |
 | Deployment | Docker-based environments, Linux servers, Nginx, and CI/CD workflows |
 | Cloud & services | Working with Oracle Cloud Infrastructure, AWS, and Firebase |
 
@@ -151,5 +155,5 @@ I use Git daily in a collaborative team environment:
 ### Contact
 
 - **Email:** [nguyenngoctuyen11032003@gmail.com](mailto:nguyenngoctuyen11032003@gmail.com)
-- **LinkedIn:** [Nguyễn Ngọc Tuyền](https://www.linkedin.com/in/nguy%E1%BB%85n-ng%E1%BB%8Dc-tuy%E1%BB%81n-99b344408/)
+- **LinkedIn:** [Nguyễn Ngọc Tuyền](https://www.linkedin.com/in/tuy%E1%BB%81n-nguy%E1%BB%85n-ng%E1%BB%8Dc-40432243b/)
 - **GitHub:** [nguyenngoctuyen11032003](https://github.com/nguyenngoctuyen11032003)
