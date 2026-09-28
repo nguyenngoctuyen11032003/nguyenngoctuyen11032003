@@ -31,11 +31,11 @@ My work covers HRM, CRM, and ERP systems, e-learning, VR360 digitalization, corp
 
 | Category | Technologies |
 | --- | --- |
-| **Languages** | <img src="https://skillicons.dev/icons?i=ts,js,dart,html,css" alt="TypeScript, JavaScript, Dart, HTML5, CSS3" height="40" /> <img src="https://img.shields.io/badge/SQL-1F2328?style=for-the-badge" alt="SQL" height="28" /> |
+| **Languages** | <img src="https://skillicons.dev/icons?i=ts,js,dart,java,py,html,css" alt="TypeScript, JavaScript, Dart, Java, Python, HTML5, CSS3" height="40" /> <img src="https://img.shields.io/badge/SQL-1F2328?style=for-the-badge" alt="SQL" height="28" /> |
 | **Frontend** | <img src="https://skillicons.dev/icons?i=react,nextjs" alt="React, Next.js" height="40" /> |
 | **Backend** | <img src="https://skillicons.dev/icons?i=nodejs,nestjs" alt="Node.js, NestJS" height="40" /> |
-| **Mobile** | <img src="https://skillicons.dev/icons?i=flutter,dart" alt="Flutter, Dart" height="40" /> |
-| **Database & Cache** | <img src="https://skillicons.dev/icons?i=postgres,redis" alt="PostgreSQL, Redis" height="40" /> |
+| **Mobile** | <img src="https://skillicons.dev/icons?i=flutter,dart,androidstudio" alt="Flutter, Dart, Android" height="40" /> |
+| **Database & Cache** | <img src="https://skillicons.dev/icons?i=postgres,mysql,redis" alt="PostgreSQL, MySQL, Redis" height="40" /> |
 | **DevOps & Infrastructure** | <img src="https://skillicons.dev/icons?i=docker,linux,nginx" alt="Docker, Linux, Nginx" height="40" /> <img src="https://img.shields.io/badge/CI%2FCD-1F2328?style=for-the-badge" alt="CI/CD" height="28" /> |
 | **Cloud** | <img src="https://skillicons.dev/icons?i=aws,firebase" alt="AWS, Firebase" height="40" /> <img src="https://img.shields.io/badge/Oracle_Cloud_%28OCI%29-1F2328?style=for-the-badge" alt="Oracle Cloud (OCI)" height="28" /> |
 | **API & Security** | <img src="https://img.shields.io/badge/REST_API-1F2328?style=for-the-badge" alt="REST API" height="28" /> <img src="https://img.shields.io/badge/JWT-1F2328?style=for-the-badge" alt="JWT" height="28" /><br><img src="https://img.shields.io/badge/Authentication-1F2328?style=for-the-badge" alt="Authentication" height="28" /> <img src="https://img.shields.io/badge/Authorization-1F2328?style=for-the-badge" alt="Authorization" height="28" /> |
@@ -48,10 +48,10 @@ My work covers HRM, CRM, and ERP systems, e-learning, VR360 digitalization, corp
 | Layer | Work |
 | --- | --- |
 | Frontend | Responsive web interfaces with React and Next.js, connected to backend APIs |
-| Backend | REST APIs and business logic with Node.js and NestJS |
-| Database | Data access and database features with PostgreSQL and SQL; caching with Redis |
+| Backend | REST APIs and business logic with Node.js and NestJS; also working with Java and Python |
+| Database | Data access and database features with PostgreSQL, MySQL, and SQL; caching with Redis |
 | Security | JWT-based authentication and authorization |
-| Mobile | Cross-platform applications with Flutter and Dart |
+| Mobile | Cross-platform applications with Flutter and Dart; Android development |
 | Deployment | Docker-based environments, Linux servers, Nginx, and CI/CD workflows |
 | Cloud | Working with AWS, Oracle Cloud Infrastructure, and Firebase |
 
