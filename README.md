@@ -1,10 +1,29 @@
-## Hi, I'm Nguyễn Ngọc Tuyền
+<div align="center">
 
-**IT Engineer | Full-Stack Developer**
+<img src="./assets/hero.svg" alt="Nguyễn Ngọc Tuyền — IT Engineer / Full-Stack Developer" width="100%" />
 
-I'm an IT Engineer and Full-Stack Developer with 2+ years of professional experience building business applications, enterprise management systems, and digital solutions in a team environment.
+<a href="https://github.com/nguyenngoctuyen11032003">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=2800&pause=800&color=22D3EE&center=true&vCenter=true&width=720&lines=%3E+Building+enterprise+systems+%E2%80%94+HRM+%C2%B7+CRM+%C2%B7+ERP;%3E+Next.js+%C2%B7+NestJS+%C2%B7+PostgreSQL+%C2%B7+Redis+%C2%B7+Docker;%3E+Business+requirements+%E2%86%92+reliable%2C+maintainable+software" alt="Typing animation" />
+</a>
 
-My work covers HRM, CRM, and ERP systems, e-learning, VR360 digitalization, corporate and product websites, and internal business tools. I focus on turning business requirements into reliable, maintainable software across the frontend, backend, and database layers.
+<p>
+  <a href="mailto:nguyenngoctuyen11032003@gmail.com"><img src="https://img.shields.io/badge/Email-0B1022?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Email" /></a>
+  <a href="https://www.linkedin.com/in/tuy%E1%BB%81n-nguy%E1%BB%85n-ng%E1%BB%8Dc-40432243b/"><img src="https://img.shields.io/badge/LinkedIn-0B1022?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn" /></a>
+  <a href="https://github.com/nguyenngoctuyen11032003/project-case-studies"><img src="https://img.shields.io/badge/Case_Studies-0B1022?style=for-the-badge&logo=bookstack&logoColor=A78BFA" alt="Case Studies" /></a>
+  <img src="https://komarev.com/ghpvc/?username=nguyenngoctuyen11032003&style=for-the-badge&color=0B1022&label=PROFILE+VIEWS" alt="Profile views" />
+</p>
+
+<img src="./assets/about.svg" alt="about-me.ts — role, company, experience, domains and tech stack" width="100%" />
+
+</div>
+
+<p align="center">
+  I'm an <b>IT Engineer and Full-Stack Developer</b> with <b>2+ years</b> of professional experience building business applications,
+  enterprise management systems and digital solutions in a team environment — from <b>HRM, CRM and ERP</b> platforms to
+  <b>e-learning</b>, <b>VR360 digital heritage</b>, corporate websites and internal business tools.
+  <br/>My focus: <b>turning business requirements into reliable, maintainable software</b> across the frontend, backend and database layers.
+</p>
+
 
 ---
 
