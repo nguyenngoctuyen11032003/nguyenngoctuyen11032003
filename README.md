@@ -11,7 +11,7 @@ My work covers HRM, CRM, and ERP systems, e-learning, VR360 digitalization, corp
 ### About Me
 
 - **Role:** IT Engineer / Full-Stack Developer
-- **Experience:** 2+ years of professional software development
+- **Experience:** 2+ years of professional IT experience
 - **Location:** Vietnam
 - **Domain:** Enterprise software, business management systems, and digital solutions
 - **Working style:** Full-stack implementation within a system architecture defined by the team and technical leads
@@ -59,7 +59,7 @@ My work covers HRM, CRM, and ERP systems, e-learning, VR360 digitalization, corp
 
 ### Professional Experience
 
-**IT Engineer / Full-Stack Developer** — 2+ years
+**IT Engineer / Full-Stack Developer** — ICS International Cybersecurity JSC (07/2025 – present)
 
 I have contributed to the development and maintenance of multiple business-oriented software products as part of a development team. My responsibilities include:
 
@@ -82,7 +82,8 @@ Most of these projects are proprietary. Detailed write-ups, without source code 
 
 | Project | Description | Main technologies |
 | --- | --- | --- |
-| [HRM — Human Resource Management](https://github.com/nguyenngoctuyen11032003/project-case-studies/blob/main/hrm-system.md) | Internal platform for organizational and employee management processes | NestJS, Next.js, PostgreSQL, Redis, Docker |
+| [HRM — Human Resource Management](https://github.com/nguyenngoctuyen11032003/project-case-studies/blob/main/hrm-system.md) | Internal platform for organizational and employee management processes | Java, JSP |
+| [Classroom & Teacher Management](https://github.com/nguyenngoctuyen11032003/project-case-studies/blob/main/classroom-teacher-management.md) | Internal system for managing classrooms and teachers | Next.js, NestJS, PostgreSQL |
 | [CRM — Customer Relationship Management](https://github.com/nguyenngoctuyen11032003/project-case-studies/blob/main/crm-system.md) | Platform for customer-related workflows and internal operations | NestJS, Next.js, PostgreSQL, Redis, Docker |
 | [ERP — Hotel / Enterprise Management](https://github.com/nguyenngoctuyen11032003/project-case-studies/blob/main/erp-hotel-management.md) | Management system for hotel operations and business processes | NestJS, Next.js, PostgreSQL, Docker |
 | [E-Learning Platform](https://github.com/nguyenngoctuyen11032003/project-case-studies/blob/main/e-learning-platform.md) | Online learning platform for digital education and learning content | Next.js, NestJS, PostgreSQL, Redis |
